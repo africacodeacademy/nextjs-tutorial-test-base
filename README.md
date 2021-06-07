@@ -11,7 +11,11 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn), includ
 
 This repository comes with test in the `pages-test` folder (tests cannot live alongside the pages in the `pages` folder, because NextJS will consider them a separate page). The `package.json` file has an test script that will run when you run `npm test` from the command-line.
 
-When you run `npm test` after installing, you should get output similar to this:
+After installing, run `npm test`.
+
+Then type `a` to run **all** tests (as opposed to tests since last commit).
+
+You should get output similar to this:
 
 ```
 PASS  pages-tests/index.test.jsx
